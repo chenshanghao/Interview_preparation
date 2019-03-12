@@ -1,15 +1,14 @@
 ## 1. Why are you changing your career?
-I decided to change my career direction to Computing Science because I have always been fascinated by new technology.
-I worked as a software engineer in a Japanese Company after graduation from Shanghai Maritime University. This company specializes in designing testing device for cooling and heating products. When building the testing device, our software will collect data from different data acquisition systems and engineers will adjust the equipment based on data. Usually, we understand data based on engineers' experience. 
+I decided to change my career direction to Computing Science because I have always been fascinated by new technology. I worked as a software engineer in a Japanese Company after graduation from Shanghai Maritime University. This company specializes in designing testing device for cooling and heating products. When building the testing device, our product will collect data from different data acquisition systems and engineers will adjust the equipment based on data. Usually, we understand data based on engineers' experience.
 
-At that time, I read the new that big data era is coming. I was worried that my job will be replaced by AI in the future. Then, I decided to go back to school to refresh my skills.
+At that time, I read the news that the big data era is coming. I was worried that my job will be replaced by AI in the future. Then, I decided to go back to school to refresh my skills.
 
 
 
 ## 2. Tell me a time when you solved a problem in a project?
 At my previous internship at CopperTree Analytics, I worked on a project for anomaly detection for building systems. I developed the anomaly detection module based on LSTM and tried to increase accuracy for anomaly detection.
 
-At that time, I met a problem with missing data. When there is a period of missing data, our module will detect anomaly at next time instant after a long period of missing data. I have to do research on how to deal with missing data on RNN network. From the relevant literature, the most common method is to cut the missing data directly from the input. However, it didn't work on this project. After discussing with my mentor, we found that we can take advantage of the periodic change for the build systems' trend logs. Therefore, we add four features to help the Network to learn the periodic change. These four features are sinOfDay, consinOfday, sinOfweek, and consinOfweek.
+At that time, I met a problem with missing data.  If there is a long period of missing data, our module always detects anomaly at next time instant. I have to do research on how to deal with missing data on RNN network. From the relevant literature, the most common method is to cut the missing data directly from the input. However, it didn't work on this project. After discussing with my mentor, we found that we can take advantage of the periodic change for the build systems' trend logs. Therefore, we add four features to help the Network to learn the periodic change. These four features are sinOfDay, consinOfday, sinOfweek, and consinOfweek.
 
 Through this experience, I learned that an engineer should better understand the data which will help you to get better achievements. I should not only focus on the machine learning algorithm but also understanding the detail information of data.
 
@@ -27,7 +26,7 @@ I first scheduled one-on-one to listen to others' opinions and fully communicate
 Finally, we reached the agreement on the project design, which meets the basic requirements of everyone. Through this experience, I've learned that good communication is half of a successful project.
 
 ## 5. Where do you see yourself in 3-5 years?
-I hope I can be an expert in data science. I know it will be a hard journey. 
+I hope I can be an expert in data science. I know it will be a hard journey. I have a plan to accomplish this goal.
 Firstly, I need to find a data science-related job in industry to improve my skill set.
 Also, I should keep learning from online courses, relevant literature, and meeting.
 Last but not least, I should stay curious to embrace new technologies.
