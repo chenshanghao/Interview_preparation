@@ -30,3 +30,34 @@ I hope I can be an expert in data science. I know it will be a hard journey. I h
 Firstly, I need to find a data science-related job in industry to improve my skill set.
 Also, I should keep learning from online courses, relevant literature, and meeting.
 Last but not least, I should stay curious to embrace new technologies.
+
+## 6. What Are Your Greatest Strengths?
+Firstly, I have great perseverance. When I was 18 years old, my weight was 123 kilograms. When I was 22 years old, I reduced my weight to 80kg. In order to lose weight, I ran 5 kilometers every day for four years. In the beginning, I was so fat that I could hardly walk 5 kilometers. After four years, I succeeded to join the university soccer team. I'm very proud of this four-year losing weight experience.
+
+Secondly, I think I am a quick learner. I did not major in computer science when I was an undergraduate student. In order to pass the graduate entrance exam in China, I have to self-study many computer science courses like Data Structure, Computer Network, Operation System and Computer Organization Principles.
+
+Last, I have the ability to handle pressure and work under a tight deadline. Before I start to work every day, I will write every task I want to complete on a small piece of paper and stick it on the wall.  Every time I complete a task, I will take the corresponding small piece of paper from the wall. This will give me a sense of satisfaction in accomplishing one thing. At the same time, when I get off work, I will make sure that there are no small pieces of paper left on the wall.
+
+## 7. How do you handle stressful situations?  
+Personally, I have to say that good pressure, such as having a lot of assignments to work on, or an upcoming deadline helps me to stay motivated and productive.
+Planning is an important tool in handling stress for me.  Drawing up detailed daily, weekly and monthly work helps me to get ahead of stress situations. During my last terms of graduate study in China, I have to write my thesis, prepare for the English language test and work as a data engineer at Cisco. In order to handle these stressful situations, I have my daily, weekly and monthly plan and target. I must make sure that I finish the task on time. Finally, I finished these three things well through proper time planning and I enjoyed this stressful experience. 
+
+## 8. Tell me the one time when you put your teams need in front of your needs?
+During my last coop in CooperTree analytics, I was trying to develop an anomaly detection module for the building automation system. In the beginning, we plan to build the module based on cluster results. The idea is that If there is a trend log that suddenly changes the original clustering type, we recognized it as an anomaly trend log. However, I read the latest literature about anomaly detection module based on neural network and the result was much better than the traditional method. After communicating with my mentor, I redeveloped the anomaly detection module based on LSTM. Although I have to self-studied Pytorch during my spare time, I really enjoy the implement the new technique to get a better result.
+
+## 9. Who inspires you and why?
+Many industry leaders, teachers inspire me, but I would have to say that my greatest inspiration comes from my mother. My father passed away when I was 9 years old. My mother taught me to stay focused and goal oriented, no matter the obstacles that come my way.
+
+## 10. If you were to be the owner of a startup which three core values would you instill within the company ?  
+
+1. Customer satisfaction
+As a start-up, the most important thing is to survive in a competitive environment. Therefore, customer satisfaction is the most import value for us. We need to constantly listening to customers, and then continuously testing, enhancing, and personalizing the customer experience.
+
+2. Accountability
+The value of accountability is the willingness to take responsibility for one’s own actions. At the core of accountability is reliability and personal responsibility. We value the ability of our staff and organization to honor our commitments, to clients and to each other.  We take ownership of our work and promptly correct mistakes to the greatest extent possible.
+
+3. Collaboration:
+We work collaboratively with our clients and team by engaging in meaningful discussion, honest, open and healthy debate to find the best solutions for forward progress. Teamwork, positive attitudes and mutual respect are essential to our success.
+
+## 11. Do You Prefer Working Alone or in a Group?
+For most projects or assignments, I found that having multiple brains working toward the same final product was very beneficial. Also, I've always been a team player, ever since I was in grade school and got involved in team sports. I know that being cooperative, open-minded, and focused are important aspects of being a successful team member, and I pride myself in having those qualities.
