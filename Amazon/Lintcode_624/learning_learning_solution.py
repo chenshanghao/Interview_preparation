@@ -14,10 +14,11 @@ class Solution:
             s = queue.pop(0)
             for subStri in dict:
                 found = s.find(subStri)
-                if found != -1:
+                while found != -1:
                     new_s = s[:found] + s[found + len(subStri):]
                     if new_s not in hash:
                         resMin = min(resMin, len(new_s))
                         queue.append(new_s)
                         hash.add(new_s)
+                    found = s.find(subStri, found + 1)
         return resMin
