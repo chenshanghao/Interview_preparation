@@ -12,3 +12,26 @@
 # Output from aonecode.com
 # [90, 125]
 # 90min + 125min = 215 is the maximum number within 220 (250min - 30min)
+
+class Solution:
+    def twoSumClosest(self, nums, target):
+        if not nums:
+            return target;
+
+        nums = sorted(nums)
+        left, right = 0, len(nums) - 1
+        min_diff = float('inf')
+
+        while left < right:
+            total = nums[left] + nums[right]
+
+            if total < target:
+                min_diff = min(min_diff, target - total)
+                left += 1
+            elif total > target:
+                min_diff = min(min_diff, total - target)
+                right -= 1
+            else:
+                return 0
+
+        return min_diff
